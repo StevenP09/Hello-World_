@@ -5,6 +5,9 @@ def max (n1, n2):
         print (n1)
     else:
         print ("Son iguales")
+    else:   
+        print("No son Igules")
+
 
 max(5, 5)
 
